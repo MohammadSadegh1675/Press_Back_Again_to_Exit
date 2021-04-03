@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LearnPress Back Again to Exit"
